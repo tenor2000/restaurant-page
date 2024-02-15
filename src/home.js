@@ -18,7 +18,7 @@ const homeLayout = function() {
     // List Operating Hours
     const hoursOper = document.createElement('div');
     hoursOper.classList.add('info');
-    const daysofOperation = ['Monday', 'Tuesday', 'Wednesday','Thursday','Friday', 'Saturday', 'Sunday']
+    const daysofOperation = ['Monday', 'Tuesday', 'Wednesday','Thursday', 'Friday', 'Saturday', 'Sunday']
     for (let i=0; i < 7; i++) {
         const day = document.createElement('p')
         let hours = '6:00 AM - 9:00 PM'

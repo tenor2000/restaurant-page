@@ -1,0 +1,59 @@
+{
+    "appetizers": [
+      {
+        "name": "Tuna Tartare Tidbits",
+        "description": "Freshly caught tuna served with a delicate seaweed salad."
+      },
+      {
+        "name": "Salmon Sushi Surprise",
+        "description": "Handcrafted sushi rolls filled with premium salmon and a hint of catnip."
+      },
+      {
+        "name": "Crispy Catfish Croquettes",
+        "description": "Crispy fried catfish bites served with a tangy tartar sauce."
+      }
+    ],
+    "main_courses": [
+      {
+        "name": "Meow-meow Mackerel Medley",
+        "description": "Grilled mackerel fillets seasoned with a secret blend of herbs and spices."
+      },
+      {
+        "name": "Fancy Feast Flounder Florentine",
+        "description": "Tender flounder fillets topped with a creamy spinach and cheese sauce."
+      },
+      {
+        "name": "Purrfectly Grilled Swordfish",
+        "description": "Juicy swordfish steaks grilled to perfection and served with a side of lemon-butter sauce."
+      }
+    ],
+    "desserts": [
+      {
+        "name": "Whisker-Lickin' Good Tuna Ice Cream",
+        "description": "Creamy tuna-flavored ice cream topped with a sprinkle of catnip."
+      },
+      {
+        "name": "Fishy Delight Pudding",
+        "description": "Rich and creamy pudding made with layers of vanilla custard and crushed fish-shaped cookies."
+      },
+      {
+        "name": "Salmon Surprise Cupcakes",
+        "description": "Moist salmon-infused cupcakes topped with a decadent cream cheese frosting and a salmon jerky garnish."
+      }
+    ],
+    "beverages": [
+      {
+        "name": "Catnip-infused Lemonade",
+        "description": "Refreshing lemonade infused with aromatic catnip."
+      },
+      {
+        "name": "Tuna Tango Smoothie",
+        "description": "A blend of ripe bananas, strawberries, and tuna for a purrfectly balanced smoothie."
+      },
+      {
+        "name": "Feline Fizz Mocktail",
+        "description": "A bubbly concoction of sparkling water and fish-flavored syrup, served with a fish-shaped ice cube."
+      }
+    ]
+  }
+  

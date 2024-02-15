@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx webpack --watch"
+  },
+  "author": "Gregory Jung",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.10.0",
+    "json-loader": "^0.5.7",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4"
+  }
+}

@@ -39,7 +39,7 @@ nav.appendChild(locBtn)
 // Title Bar Banner
 const banner = document.getElementById('title-bar');
 const catLogo = document.createElement('img');
-catLogo.src = "/imgs/Pngtree7262502.png"
+catLogo.src = "imgs/Pngtree7262502.png"
 const bannerContent = document.createElement('h1');
 bannerContent.textContent = "The Catfish Grill";
 
